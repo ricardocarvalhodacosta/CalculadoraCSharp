@@ -4,7 +4,7 @@ Afim de criar um método para estudar e evoluir com a linguagem C#, resolvi recr
 Inicialmente comecei pela calculadora em C, que agora é a CalculadoraC#. Futuramente irei criar uma interface gráfica para ela,
 por enquanto ela é utilizada apenas em uma aplicação de console. Segue um exemplo abaixo:
 
-#Vídeo Demonstrativo da aplicação em Console
+#Vídeo_Demonstrativo_da_aplicação_em_Console
 
 https://user-images.githubusercontent.com/115588683/232607210-49b3ddb5-9da9-4663-9472-344689a0cf51.mp4
 
